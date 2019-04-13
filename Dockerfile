@@ -1,3 +1,4 @@
+# This is to check nginx repository
 FROM nginx:latest 
 MAINTAINER venkat_kantheti@yahoo.co.uk 
 COPY index.html /usr/share/nginx/html/
